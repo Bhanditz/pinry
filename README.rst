@@ -57,11 +57,13 @@ Current Master Build Status
 ---------------------------
 
 |Codeship Status for pinry/pinry|
+|Launcher|
 
-.. image:: http://launch.appsembler.com/static/img/buttons/btn-large-green.png:target: http://launch.appsembler.com/pinry/
 
 .. Links
 
+.. |Launcher| image:: http://launch.appsembler.com/static/img/buttons/btn-large-green.png
+   :target: http://launch.appsembler.com/pinry/
 .. |Pinry| image:: https://raw.github.com/pinry/pinry/master/logo.png
 .. |Codeship Status for pinry/pinry| image:: https://www.codeship.io/projects/461ebc50-70be-0130-073a-22000a9d07d8/status?branch=master
    :target: https://www.codeship.io/projects/2005
