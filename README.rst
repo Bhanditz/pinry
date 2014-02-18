@@ -58,6 +58,8 @@ Current Master Build Status
 
 |Codeship Status for pinry/pinry|
 
+.. image:: http://launch.appsembler.com/static/img/buttons/btn-large-green.png
+:target: http://launch.appsembler.com/pinry/
 
 .. Links
 
